@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ankit-Tec40
-- 👀 I’m interested in AI and ML
-- 🌱 I’m currently learning ML with Python
+- 👀 I’m interested in AI/ML and Android Development
+- 🌱 I’m currently learning ML with Python and Android Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
