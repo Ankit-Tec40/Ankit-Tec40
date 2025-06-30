@@ -1,46 +1,55 @@
+# 👋 Hi there, I'm Ankit Kumar!
 
-<!---
-- 👋 Hi, I’m @Ankit-Tec40
-- 👀 I’m interested in AI/ML and Android Development
-- 🌱 I’m currently learning ML with Python and Android Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+🎯 Full Stack Developer | 💻 .NET & Python Enthusiast | 📱 Mobile & Web App Builder  
+🏢 Currently at **EaseMyTrip** | 📍 India  
 
+---
 
-Ankit-Tec40/Ankit-Tec40 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 What I'm Working On
 
+- 🔧 Building tools with **Flask**, **AngularJS**, and **.NET**
+- 🤖 Developing AI/ML-based projects using **Python** & **Scikit-learn**
+- 🧠 Exploring **Machine Learning**, **DSA**, and product development
+- 📱 Created an **API Testing Tool**, **Resume Builder**, and **ML Experiment UI**
+- 🌐 Hosting micro tools on old Android using **Termux** or **Flask**
 
+---
 
-### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Ankit Kumar.
+## 🛠️ Technologies I Use
 
-<a href="https://www.linkedin.com/in/ankit991999/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
+- **Languages**: `Java` • `Python` • `C#` • `JavaScript`
+- **Frameworks**: `.NET Core` • `Flask` • `AngularJS`
+- **Tools**: `GitHub` • `Postman` • `Jupyter Notebook` • `Raspberry Pi`
+- **DevOps**: GitHub Actions • Hosting Flask APIs • Termux scripting
+- **Others**: HTML/CSS • Soldering IoT gadgets • Using Induction Kettle for 10-min sabzi 🍲
 
-<!-- <a href="">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a> -->
+---
 
-<a href="mailto:ankit.tec40@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
+## 📈 Goals for 2025
 
-<!-- <a href="">
-  <img align="left" width="26px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--E8ak4Hr1--/c_limit,f_auto,fl_progressive,q_auto,w_32/https://dev-to.s3.us-east-2.amazonaws.com/favicon.ico" />
-</a> -->
+- 🎓 Deepen ML & DSA knowledge
+- 🏃‍♂️ Build habit-based product ideas
+- 💡 Freelance & launch micro SaaS tools
+- 💼 Aim for better job roles & appraisal through real impact
+- 🌱 Shift from consumer to **creator**
 
-</br>
+---
 
+## 🔗 Connect with Me
 
-### About me
-<!-- - I am a Open Source enthusiast and a computer science student currently in my Junior year. -->
+- 💬 Ask me about `.NET`, Python, or building smart tools
+- 💻 Portfolio (coming soon on GitHub Pages)
+- 🐍 Practicing DSA like problem-solving at work
+- 📧 [Email Me]()
 
-- I am passionate about Android development, Machine Learning and enjoy learning about new things.
+---
 
-![Ankit's github stats](https://github-readme-stats.vercel.app/api?username=Ankit-Tec40&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-Tec40&layout=compact)
+## 📊 GitHub Stats
 
+![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=github_dark&count_private=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=github_dark)
 
+---
+
+> 🧠 *“Every project I build is a small step towards freedom, curiosity, and purpose.”*
