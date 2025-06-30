@@ -46,9 +46,9 @@
 
 ## 📊 GitHub Stats
 
-![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=github_dark&count_private=true)
+![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ankit-Tec40&show_icons=true&theme=github_dark&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-Tec40&layout=compact&theme=github_dark)
 
 ---
 
